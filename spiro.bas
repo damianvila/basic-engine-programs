@@ -1,3 +1,5 @@
+' Adaptation of a Spirograph program from Basic Bits
+' http://basic256.blogspot.com/2016/04/parametric-spirograph.html
 10 n=1
 20 CLS
 30 r=PSIZE(1)/2-60

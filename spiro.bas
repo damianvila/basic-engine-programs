@@ -12,7 +12,7 @@
 100 y=r*COS(t)+cy
 110 xm=rm*SIN(-t*3*n)+x
 120 ym=rm*COS(-t*3*n)+y
-130 CIRCLE xm,ym,1,ccolor,ccolor
+130 CIRCLE xm,ym,6-n,ccolor,ccolor
 140 WAIT 1
 150 NEXT t
 160 n=n+1:IF n>6 THEN n=1: CLS

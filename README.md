@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This repository has moved to https://codeberg.org/Dmian/basic-engine-programs
+
+> [!WARNING]
+> This repository is now archived and no longer mantained on GitHub.
+
 # BASIC programs for the BASIC Engine computer
 
 A collection of silly BASIC programs for the [BASIC Engine](http://basicengine.org/) board.
